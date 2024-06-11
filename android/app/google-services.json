@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339701683930",
+    "project_id": "gearcare-4c0d9",
+    "storage_bucket": "gearcare-4c0d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339701683930:android:c33f8d2efba5adfdb0b7e3",
+        "android_client_info": {
+          "package_name": "com.example.gear_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtZyWyW2c627ZaRPM30hkv8sd5CVRTpCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
